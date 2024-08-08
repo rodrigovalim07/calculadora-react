@@ -32,7 +32,7 @@ A calculadora permite realizar operações matemáticas básicas, como adição,
    npm run start
 
 **Após executar o comando, ela irá abrir numa nova aba:**
-![calculadora react](https://github.com/user-attachments/assets/a7ff4b90-99db-4016-bc14-3d9f53492387)
+![calculadora react](https://github.com/user-attachments/assets/7962b6e0-0c1c-4d3f-bd10-81e913825f33)
 
 ## Conclusão
 Obrigado por conferir o projeto da Calculadora! Este projeto foi uma excelente oportunidade para aplicar e aprimorar habilidades em React.
